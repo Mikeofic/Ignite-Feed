@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img width='250px' height='125px' alt="Logo Poké Store" title="#logo" src=".src/assets/ignite-logo.svg" />
+  <img width='250px' height='125px' alt="Logo Poké Store" title="#logo" src="/src/assets/ignite-logo.svg" />
 </h2>
 
 # 💻 Ignite Feed
@@ -9,13 +9,13 @@ Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde po
 ## Preview Desktop 
 
 <h5 align="center">
-  <img width='100%' alt="Desktop Thumb" title="#web" src=".github/desktop.png" />
+  <img width='100%' alt="Desktop Thumb" title="#web" src="/github/desktop.png" />
 </h5>
 
 ## Preview Mobile 
 
 <h5 align="center">
-  <img width='100%' alt="Mobile Thumb" title="#mobile" src=".github/mobile.png" />
+  <img width='100%' alt="Mobile Thumb" title="#mobile" src="/github/mobile.png" />
 </h5>
 
 ## Começando...
