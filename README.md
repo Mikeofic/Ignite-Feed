@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img width='225px' height='100px' alt="Logo Poké Store" title="#logo" src="/src/assets/ignite-logo.svg" />
+  <img width='45px' height='40px' alt="Logo Poké Store" title="#logo" src="/src/assets/ignite-logo.svg" />
 </h2>
 
 # 💻 Ignite Feed
@@ -8,19 +8,19 @@
 
 Projeto desenvolvido no curso Ignite da @rocketseat. Trata-se de um feed onde podemos comentar nas postagens e interagir com os comentários. Podemos deletar os comentários se preferir.
 
-## Preview Desktop 
+## 🚀 Preview Desktop 
 
 <h5 align="center">
   <img width='80%' alt="Desktop Thumb" title="#web" src="/github/desktop.png" />
 </h5>
 
-## Preview Mobile 
+## 🚀 Preview Mobile 
 
 <h5 align="center">
   <img width='80%' alt="Mobile Thumb" title="#mobile" src="/github/mobile.png" />
 </h5>
 
-## Começando...
+## 🚀 Começando...
 
 Você precisará ter o **Yarn** instalado no seu computador. Após instalá-lo:
 1. Clone o Repositório.
@@ -47,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Js
 - Css modules
 
-### Features
+## 🚀 Features
 
 - Tailwind Ui
 - React-icons
